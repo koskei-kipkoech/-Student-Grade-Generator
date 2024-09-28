@@ -3,14 +3,14 @@ This project is a simple JavaScript program that calculates and display students
 
 
 # **Features**
- -Takes user input (between 0 - 100).
+ - Takes user input (between 0 - 100).
  - Outputs the corresponding grade based on ranges.
 
 
 # **Installation**
 Clone the repository to your local machine.
  - git clone git@github.com:koskei-kipkoech/Student-Grade-Generator.git
- cd Student-Grade-Generator
+ - cd Student-Grade-Generator
 
 # **Usage**
 To use the program:
@@ -20,4 +20,4 @@ To use the program:
  4. The program will display the corresponding grade.  
 
  # **Licence**
- This project is licenced under  the MIT licence.
+ - This project is licenced under  the MIT licence.
